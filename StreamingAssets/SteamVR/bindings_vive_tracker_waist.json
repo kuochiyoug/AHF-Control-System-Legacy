@@ -1,0 +1,136 @@
+{
+   "action_manifest_version" : 0,
+   "alias_info" : {},
+   "app_key" : "application.generated.unity.ahfcontrolsystem.exe",
+   "bindings" : {
+      "/actions/default" : {
+         "poses" : [
+            {
+               "output" : "/actions/default/in/pose",
+               "path" : "/user/hand/left/pose/back"
+            },
+            {
+               "output" : "/actions/default/in/pose",
+               "path" : "/user/hand/right/pose/back"
+            },
+            {
+               "output" : "/actions/default/in/pose",
+               "path" : "/user/hand/left/pose/front"
+            },
+            {
+               "output" : "/actions/default/in/pose",
+               "path" : "/user/hand/right/pose/front"
+            },
+            {
+               "output" : "/actions/default/in/pose",
+               "path" : "/user/hand/left/pose/front_rolled"
+            },
+            {
+               "output" : "/actions/default/in/pose",
+               "path" : "/user/hand/right/pose/front_rolled"
+            },
+            {
+               "output" : "/actions/default/in/pose",
+               "path" : "/user/hand/left/pose/pistol"
+            },
+            {
+               "output" : "/actions/default/in/pose",
+               "path" : "/user/hand/right/pose/pistol"
+            },
+            {
+               "output" : "/actions/default/in/pose",
+               "path" : "/user/hand/left/pose/raw"
+            },
+            {
+               "output" : "/actions/default/in/pose",
+               "path" : "/user/hand/right/pose/raw"
+            },
+            {
+               "output" : "/actions/default/in/pose",
+               "path" : "/user/waist/pose/back"
+            },
+            {
+               "output" : "/actions/default/in/pose",
+               "path" : "/user/waist/pose/front"
+            },
+            {
+               "output" : "/actions/default/in/pose",
+               "path" : "/user/waist/pose/front_rolled"
+            },
+            {
+               "output" : "/actions/default/in/pose",
+               "path" : "/user/waist/pose/pistol"
+            },
+            {
+               "output" : "/actions/default/in/pose",
+               "path" : "/user/waist/pose/raw"
+            }
+         ],
+         "sources" : []
+      },
+      "/actions/htc_viu" : {
+         "chords" : [],
+         "haptics" : [
+            {
+               "output" : "/actions/htc_viu/out/viu_vib_01",
+               "path" : "/user/waist/output/haptic"
+            }
+         ],
+         "poses" : [],
+         "skeleton" : [],
+         "sources" : [
+            {
+               "inputs" : {
+                  "click" : {
+                     "output" : "/actions/htc_viu/in/viu_press_00"
+                  }
+               },
+               "mode" : "button",
+               "path" : "/user/waist/input/power"
+            },
+            {
+               "inputs" : {
+                  "click" : {
+                     "output" : "/actions/htc_viu/in/viu_press_33"
+                  }
+               },
+               "mode" : "button",
+               "path" : "/user/waist/input/trigger"
+            },
+            {
+               "inputs" : {
+                  "click" : {
+                     "output" : "/actions/htc_viu/in/viu_press_02"
+                  }
+               },
+               "mode" : "button",
+               "path" : "/user/waist/input/grip"
+            },
+            {
+               "inputs" : {
+                  "click" : {
+                     "output" : "/actions/htc_viu/in/viu_press_01"
+                  }
+               },
+               "mode" : "button",
+               "path" : "/user/waist/input/application_menu"
+            },
+            {
+               "inputs" : {
+                  "click" : {
+                     "output" : "/actions/htc_viu/in/viu_press_32"
+                  }
+               },
+               "mode" : "button",
+               "path" : "/user/waist/input/thumb"
+            }
+         ]
+      }
+   },
+   "category" : "steamvr_input",
+   "controller_type" : "vive_tracker_waist",
+   "description" : "",
+   "name" : "bindings_vive_tracker_waist",
+   "options" : {},
+   "simulated_actions" : []
+}

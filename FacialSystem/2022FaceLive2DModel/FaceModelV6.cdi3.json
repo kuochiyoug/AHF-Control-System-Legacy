@@ -1,0 +1,354 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "ParamAngleX",
+			"GroupId": "",
+			"Name": "角度 X"
+		},
+		{
+			"Id": "ParamAngleY",
+			"GroupId": "",
+			"Name": "角度 Y"
+		},
+		{
+			"Id": "ParamAngleZ",
+			"GroupId": "",
+			"Name": "角度 Z"
+		},
+		{
+			"Id": "ParamEyeLSurprised",
+			"GroupId": "",
+			"Name": "左目　驚き"
+		},
+		{
+			"Id": "ParamEyeRSurprised",
+			"GroupId": "",
+			"Name": "右目　驚き"
+		},
+		{
+			"Id": "ParamEyeRSmile",
+			"GroupId": "",
+			"Name": "右目　笑顔"
+		},
+		{
+			"Id": "ParamEyeLSmile",
+			"GroupId": "",
+			"Name": "左目　笑顔"
+		},
+		{
+			"Id": "ParamEyeLOpen",
+			"GroupId": "",
+			"Name": "左目　開閉"
+		},
+		{
+			"Id": "ParamEyeROpen",
+			"GroupId": "",
+			"Name": "右目　開閉"
+		},
+		{
+			"Id": "ParamEyeBallX",
+			"GroupId": "",
+			"Name": "目玉 X"
+		},
+		{
+			"Id": "ParamEyeBallY",
+			"GroupId": "",
+			"Name": "目玉 Y"
+		},
+		{
+			"Id": "ParamPupilSize",
+			"GroupId": "",
+			"Name": "瞳サイズ"
+		},
+		{
+			"Id": "ParamEyeImpressed",
+			"GroupId": "",
+			"Name": "感動瞳"
+		},
+		{
+			"Id": "ParamBrowLSad",
+			"GroupId": "",
+			"Name": "左眉　悲しい"
+		},
+		{
+			"Id": "ParamBrowRSad",
+			"GroupId": "",
+			"Name": "右眉　悲しい"
+		},
+		{
+			"Id": "ParamBrowLY",
+			"GroupId": "",
+			"Name": "左眉　上下"
+		},
+		{
+			"Id": "ParamBrowRY",
+			"GroupId": "",
+			"Name": "右眉　上下"
+		},
+		{
+			"Id": "ParamBrowLAngry",
+			"GroupId": "",
+			"Name": "左眉　怒り"
+		},
+		{
+			"Id": "ParamBrowRAngry",
+			"GroupId": "",
+			"Name": "右眉　怒り"
+		},
+		{
+			"Id": "ParamMouthNegative",
+			"GroupId": "",
+			"Name": "口　怒り＆悲しい"
+		},
+		{
+			"Id": "ParamMouthForm",
+			"GroupId": "",
+			"Name": "口　変形"
+		},
+		{
+			"Id": "ParamMouthOpen",
+			"GroupId": "",
+			"Name": "口　開閉"
+		},
+		{
+			"Id": "ParamSweat",
+			"GroupId": "",
+			"Name": "汗"
+		},
+		{
+			"Id": "ParamCry",
+			"GroupId": "",
+			"Name": "泣き"
+		},
+		{
+			"Id": "ParamCheek",
+			"GroupId": "",
+			"Name": "照れ"
+		},
+		{
+			"Id": "ParamLoveFace",
+			"GroupId": "",
+			"Name": "ラブ特殊セット1"
+		},
+		{
+			"Id": "ParamSunglassesFace",
+			"GroupId": "",
+			"Name": "サングラス特殊セット1"
+		},
+		{
+			"Id": "ParamTEHEPEROFace",
+			"GroupId": "",
+			"Name": "テヘペロ特殊口1"
+		},
+		{
+			"Id": "ParamPoutingMouth",
+			"GroupId": "",
+			"Name": "怒る特殊口1"
+		},
+		{
+			"Id": "ParamBadTasteFace",
+			"GroupId": "",
+			"Name": "不味い特殊セット1"
+		},
+		{
+			"Id": "ParamDizzyFace",
+			"GroupId": "",
+			"Name": "眩暈特殊セット1"
+		},
+		{
+			"Id": "ParamAfraidFace",
+			"GroupId": "",
+			"Name": "恐怖特殊セット2"
+		},
+		{
+			"Id": "ParamPanicFace",
+			"GroupId": "",
+			"Name": "恐怖特殊セット1"
+		},
+		{
+			"Id": "ParamMouthMoveInEspecially",
+			"GroupId": "",
+			"Name": "特殊口 動き"
+		},
+		{
+			"Id": "ParamPuzzled33Face",
+			"GroupId": "",
+			"Name": "困惑特殊セット2"
+		},
+		{
+			"Id": "ParamNotUnderstandBlanklyFace",
+			"GroupId": "",
+			"Name": "困惑特殊セット1"
+		},
+		{
+			"Id": "ParamSadFace",
+			"GroupId": "",
+			"Name": "悲しい特殊セット1"
+		},
+		{
+			"Id": "ParamXFace",
+			"GroupId": "",
+			"Name": "バツ顔"
+		},
+		{
+			"Id": "ParamBodyAngleY",
+			"GroupId": "",
+			"Name": "体の回転　Y"
+		},
+		{
+			"Id": "ParamBodyAngleZ",
+			"GroupId": "",
+			"Name": "体の回転　Z"
+		},
+		{
+			"Id": "ParamBreath",
+			"GroupId": "",
+			"Name": "呼吸"
+		},
+		{
+			"Id": "ParamHairFront",
+			"GroupId": "",
+			"Name": "髪揺れ　前"
+		},
+		{
+			"Id": "ParamHairSide",
+			"GroupId": "",
+			"Name": "髪揺れ　横"
+		},
+		{
+			"Id": "ParamHairBack",
+			"GroupId": "",
+			"Name": "髪揺れ　後"
+		}
+	],
+	"ParameterGroups": [],
+	"Parts": [
+		{
+			"Id": "Part",
+			"Name": "頭部"
+		},
+		{
+			"Id": "Part18",
+			"Name": "汗2"
+		},
+		{
+			"Id": "Part19",
+			"Name": "汗1"
+		},
+		{
+			"Id": "Part20",
+			"Name": "涙2"
+		},
+		{
+			"Id": "Part21",
+			"Name": "涙1"
+		},
+		{
+			"Id": "Part2",
+			"Name": "眉毛R"
+		},
+		{
+			"Id": "Part26",
+			"Name": "眉毛R"
+		},
+		{
+			"Id": "Part4",
+			"Name": "顔"
+		},
+		{
+			"Id": "Part3",
+			"Name": "バツ顔特殊1"
+		},
+		{
+			"Id": "Part5",
+			"Name": "ラブ特殊1"
+		},
+		{
+			"Id": "Part6",
+			"Name": "ドヤ顔特殊1"
+		},
+		{
+			"Id": "Part8",
+			"Name": "テヘペロ特殊1"
+		},
+		{
+			"Id": "Part9",
+			"Name": "怒る特殊1"
+		},
+		{
+			"Id": "Part10",
+			"Name": "不味い特殊1"
+		},
+		{
+			"Id": "Part11",
+			"Name": "眩暈特殊1"
+		},
+		{
+			"Id": "Part13",
+			"Name": "恐怖特殊1"
+		},
+		{
+			"Id": "Part14",
+			"Name": "困惑特殊2"
+		},
+		{
+			"Id": "Part15",
+			"Name": "困惑特殊1"
+		},
+		{
+			"Id": "Part16",
+			"Name": "悲しい特殊2"
+		},
+		{
+			"Id": "Part17",
+			"Name": "悲しい特殊1"
+		},
+		{
+			"Id": "Part25",
+			"Name": "目L"
+		},
+		{
+			"Id": "Part29",
+			"Name": "目R"
+		},
+		{
+			"Id": "Part27",
+			"Name": "恐怖特殊"
+		},
+		{
+			"Id": "Part22",
+			"Name": "チーク2"
+		},
+		{
+			"Id": "Part23",
+			"Name": "チーク1"
+		},
+		{
+			"Id": "Part24",
+			"Name": "口1"
+		},
+		{
+			"Id": "Part7",
+			"Name": "ガラス"
+		},
+		{
+			"Id": "Part28",
+			"Name": "感動瞳L"
+		},
+		{
+			"Id": "Part30",
+			"Name": "感動瞳R"
+		}
+	],
+	"CombinedParameters": [
+		[
+			"ParamEyeBallX",
+			"ParamEyeBallY"
+		],
+		[
+			"ParamMouthForm",
+			"ParamMouthOpen"
+		]
+	]
+}
