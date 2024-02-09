@@ -30,7 +30,6 @@
     "com.unity.timeline": "1.7.4",
     "com.unity.ugui": "1.0.0",
     "com.unity.xr.management": "4.3.3",
-    "com.valvesoftware.unity.openvr": "file:../Assets/SteamVR/OpenVRUnityXRPackage/Editor/com.valvesoftware.unity.openvr-1.1.4.tgz",
     "jp.keijiro.mediapipe.blazeface": "1.1.1",
     "jp.keijiro.mediapipe.facelandmark": "1.0.0",
     "jp.keijiro.mediapipe.iris": "1.1.0",
